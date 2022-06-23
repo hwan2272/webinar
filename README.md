@@ -1,5 +1,4 @@
-# webinar
-# 참석 웨비나/세미나 정리
+# webinar - 참석 웨비나/세미나 정리
 
 ## [OKKY 5월 세미나] 실전 MSA 경험 공유(https://okky.kr/article/1229709)
 
